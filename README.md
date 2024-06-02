@@ -66,23 +66,23 @@ patient@123
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
-### 📃Features :
+### 📃 Features:
 
 <ul>
-  <li><strong>User Registration and Login:</strong> Enabling user registration and login functionality is the foundation of any user-oriented platform.</li>
-  <li><strong>View Available Doctors:</strong> Allowing users to easily view the list of available doctors helps them find the right medical professional for their needs.</li>
-  <li><strong>Update Profile:</strong> Providing users with the ability to update their profiles keeps their information accurate and up to date.</li>
-  <li><strong>Contact Section for Queries:</strong> Including a contact section for user queries enhances user engagement and customer support.</li>
-  <li><strong>Notifications Tab:</strong> A notifications tab helps users stay informed about updates, appointments, and application statuses.</li>
-  <li><strong>Admin Management System:</strong> An admin management system is crucial for overseeing users, appointments, and doctor applications.</li>
-  <li><strong>Access Control:</strong> Restricting access to certain sections like notifications, profile, appointments, and doctor applications to logged-in users ensures data privacy and security.</li>
-  <li><strong>Doctor Application:</strong> Allowing users to apply to become a doctor on the site expands the pool of medical professionals and adds value to the platform.</li>
-  <li><strong>Book Appointments:</strong> Enabling users to book appointments with their preferred doctors streamlines the process of accessing medical services.</li>
-  <li><strong>Admin Approval for Doctor Requests:</strong> Admin approval for doctor applications ensures that only qualified professionals are listed on the platform.</li>
-  <li><strong>User and Doctor Removal:</strong> Admin's ability to remove users or doctors from the site is crucial for maintaining the platform's integrity.</li>
-  <li><strong>Appointment Marking:</strong> Allowing doctors and admin to mark appointments as completed ensures proper record-keeping.</li>
-  <li><strong>Application and Appointment Notifications:</strong> Sending notifications to users, doctors, and admins about application statuses and appointment updates enhances communication.</li>
-  <li><strong>Data Storage and Security:</strong> Storing all data in a database ensures data integrity, security, and easy retrieval of information.</li>
+  <li><strong>User Registration and Login:</strong> Essential functionality that allows users to create accounts and log in to the platform.</li>
+  <li><strong>View Available Doctors:</strong> Users can browse a list of available doctors to find the appropriate medical professional for their needs.</li>
+  <li><strong>Update Profile:</strong> Users have the ability to update their personal information to keep their profiles current and accurate.</li>
+  <li><strong>Contact Section for Queries:</strong> A dedicated section where users can submit queries, enhancing engagement and customer support.</li>
+  <li><strong>Notifications Tab:</strong> Keeps users informed about updates, appointments, and the status of their applications.</li>
+  <li><strong>Admin Management System:</strong> A crucial tool for admins to oversee users, appointments, and doctor applications.</li>
+  <li><strong>Access Control:</strong> Ensures data privacy and security by limiting access to notifications, profiles, appointments, and doctor applications to logged-in users.</li>
+  <li><strong>Doctor Application:</strong> Users can apply to become doctors on the platform, increasing the number of available medical professionals.</li>
+  <li><strong>Book Appointments:</strong> Users can book appointments with their chosen doctors, streamlining the process of obtaining medical services.</li>
+  <li><strong>Admin Approval for Doctor Requests:</strong> Ensures that only qualified professionals are listed by requiring admin approval for doctor applications.</li>
+  <li><strong>User and Doctor Removal:</strong> Admins can maintain the integrity of the platform by removing users or doctors when necessary.</li>
+  <li><strong>Appointment Marking:</strong> Doctors and admins can mark appointments as completed to ensure accurate record-keeping.</li>
+  <li><strong>Application and Appointment Notifications:</strong> Notifications keep users, doctors, and admins updated on the status of applications and appointments, enhancing communication.</li>
+  <li><strong>Data Storage and Security:</strong> All data is stored securely in a database, ensuring integrity and easy retrieval of information.</li>
 </ul>
 
 <hr/>
